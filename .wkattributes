@@ -1,0 +1,13 @@
+name: wkattributes
+description: Attributes for a specific project
+usage: wkattributes [command]
+license: GPL-3.0
+author: Colack | Jack Spencer
+versionMajor: 0
+versionMinor: 0
+versionPatch: 1
+buildDate: 2024-01-25
+buildTime: 10:24:42
+buildAuthor: Colack | Jack Spencer
+
+# Neato
